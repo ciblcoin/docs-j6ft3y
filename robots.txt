@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-o5w13s.keitaro-tech-rtb.online/sitemap.xml
